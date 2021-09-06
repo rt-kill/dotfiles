@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [[ -z $(pgrep -f "st -c st-floater") ]];
+then
+  st -c st-floater &
+else
+  i3-msg '[class=st-floater]' scratchpad show
+fi

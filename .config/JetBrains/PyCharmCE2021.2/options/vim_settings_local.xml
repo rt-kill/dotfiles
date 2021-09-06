@@ -1,0 +1,91 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/ClassWork/Fall21/COMP321/Assignment1/BusNumbers/main.py" timestamp="1630887407679">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="25" column="7" />
+      </file>
+      <file name="$USER_HOME$/ClassWork/Fall21/COMP321/Assignment1/EraseSecurely/main.py" timestamp="1630888678464">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/ClassWork/Fall21/COMP321/Assignment1/Cold-puterScience/main.py" timestamp="1630886698430">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/ClassWork/Fall21/COMP321/Assignment1/Oddities/main.py" timestamp="1630889034532">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="22" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50KGlucHV0KCkp</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">aW50KGlucHV0KCkp</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">KQ==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KG1lbW9yeUJlZm9yZSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBUaGlzIGlzIGEgc2FtcGxlIFB5dGhvbiBzY3JpcHQuCgojIFByZXNzIFNoaWZ0K0YxMCB0byBleGVjdXRlIGl0IG9yIHJlcGxhY2UgaXQgd2l0aCB5b3VyIGNvZGUuCiMgUHJlc3MgRG91YmxlIFNoaWZ0IHRvIHNlYXJjaCBldmVyeXdoZXJlIGZvciBjbGFzc2VzLCBmaWxlcywgdG9vbCB3aW5kb3dzLCBhY3Rpb25zLCBhbmQgc2V0dGluZ3MuCgoKZGVmIHByaW50X2hpKG5hbWUpOgogICAgIyBVc2UgYSBicmVha3BvaW50IGluIHRoZSBjb2RlIGxpbmUgYmVsb3cgdG8gZGVidWcgeW91ciBzY3JpcHQuCiAgICBwcmludChmJ0hpLCB7bmFtZX0nKSAgIyBQcmVzcyBDdHJsK0Y4IHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludC4KCgojIFByZXNzIHRoZSBncmVlbiBidXR0b24gaW4gdGhlIGd1dHRlciB0byBydW4gdGhlIHNjcmlwdC4KaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHByaW50X2hpKCdQeUNoYXJtJykKCiMgU2VlIFB5Q2hhcm0gaGVscCBhdCBodHRwczovL3d3dy5qZXRicmFpbnMuY29tL2hlbHAvcHljaGFybS8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihtZW1vcnlCZWZvcmUpKToKICAgICAgICBpZiBtZW1vcnlCZWZvcmVbaV0gPT0gbWVtb3J5QWZ0ZXJbaV06CiAgICAgICAgICAgIHByaW50KGkpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50X2hpKCdQeUNoYXJtJykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlmIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

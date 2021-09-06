@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+rofi_command="rofi -i -dmenu"
+
+# Options
+shutdown=" Shutdown"
+reboot=" Restart"
+lock=" Lock"
+suspend=" Suspend"
+logout=" Logout"
+
+# Variable passed to rofi
+options="$lock\n$suspend\n$logout\n$reboot\n$shutdown"
+
+chosen="$(echo -e "$options" | $rofi_command "Power Menu" -dmenu -selected-row 0)"
+case $chosen in
+    $shutdown)
+	systemctl poweroff
+        ;;
+    $reboot)
+	systemctl reboot
+        ;;
+    $lock)
+	betterlockscreen -l
+        ;;
+    $suspend)
+	betterlockscreen -s
+        ;;
+    $logout)
+	i3-msg exit
+        ;;
+esac

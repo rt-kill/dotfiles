@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [[ -z $(pgrep -f "st -c nmtui-floater") ]];
+then
+  st -c nmtui-floater -e nmtui &
+else
+  i3-msg '[class=nmtui-floater]' scratchpad show
+fi

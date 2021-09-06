@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [[ -z $(pgrep -f 'firefox -P Floater') ]];
+then
+  firefox -P Floater --class='ff-floater' &
+else
+  i3-msg '[class=ff-floater]' scratchpad show
+fi

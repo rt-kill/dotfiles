@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="14" l="1630879711526" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="14" l="1630888620601" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="423" l="1630888996297" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="19" l="1630888598245" />
+    </e>
+    <e n="EditorDelete">
+      <i c="15" l="1630880420177" />
+    </e>
+    <e n="EditorEnter">
+      <i c="131" l="1630888998002" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1630888647665" />
+    </e>
+    <e n="EditorTab">
+      <i c="10" l="1630888926619" />
+    </e>
+    <e n="OpenFile">
+      <i c="4" l="1630888859484" />
+    </e>
+    <e n="SaveAll">
+      <i c="60" l="1630889035066" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1630880649247" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1630878245356" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1630877826054" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="719" l="1630889034531" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1630880649481" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="61" l="1630889035065" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cmds="\
+Personal	firefox -P Personal
+Work		firefox -P Work
+School		firefox -P School"
+
+choice="$(echo "$cmds" | cut -d'	' -f 1 | rofi -dmenu -i Firefox)" || exit 1
+
+eval "$(echo "$cmds" | grep "^$choice	" | cut -d '	' -f2-)"

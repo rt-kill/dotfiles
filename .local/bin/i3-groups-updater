@@ -1,0 +1,6 @@
+#!/bin/sh
+# Updates i3-groups every second
+while true; do
+  polybar-msg hook i3-mod 1;
+  sleep 0.5;
+done

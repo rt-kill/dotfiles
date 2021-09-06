@@ -1,0 +1,1 @@
+/home/rt-kill/.local/bin/powermenu
